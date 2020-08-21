@@ -14,7 +14,6 @@ depends: [
   "ocaml" {>= "4.02.0"}
   "dune" {>= "2.0"}
   "menhir"
-  "mybuild"
   "ppx_deriving"
   ("extlib" | "extlib-compat")
   "base-unix"
